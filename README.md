@@ -16,6 +16,8 @@ MicroGPT is a full-stack AI application built with React, Express, and SQLite. I
 - **Responsive Design**: Fully functional on desktop, tablet, and mobile devices.
 - **Production Ready**: Includes error handling, toast notifications, and database persistence.
 
+<img src="./microgpt_architecture.svg" alt="Architecture Diagram" width="800"/>
+
 ## Tech Stack
 
 - **Frontend**: React, TypeScript, Tailwind CSS, Framer Motion, Lucide Icons.
