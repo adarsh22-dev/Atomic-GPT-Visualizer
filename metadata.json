@@ -1,0 +1,5 @@
+{
+  "name": "Atomic GPT Visualizer",
+  "description": "A deep dive into the atomic building blocks of a GPT model, featuring a pure TypeScript autograd engine and transformer architecture.",
+  "requestFramePermissions": []
+}
